@@ -1,5 +1,5 @@
 using SistemaGestionMusica.Modelos;
-namespace SistemaGestionMusica.Tests
+namespace SistemaGestionMusica.Tests 
 {
     public class UsuarioTests
     {
