@@ -3,5 +3,7 @@ Es un repositorio que tiene la función de evaluar el desempeño mostrado en la 
 ## Nombre de los integrantes:
 
 Ceballos Cano Aarón Gabriel
+
 Moreno Olivares Zaira Lizeth
+
 Vazquez Sanchez Lesly Sinai
