@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aaron\\OneDrive\\Documents\\TP_25\\SistemaGestionMusica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{104CCF68-BBB4-4730-8855-CA78006FC2B1}|SistemaGestionMusica.csproj|c:\\users\\aaron\\onedrive\\documents\\tp_25\\sistemagestionmusica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{104CCF68-BBB4-4730-8855-CA78006FC2B1}|SistemaGestionMusica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{104CCF68-BBB4-4730-8855-CA78006FC2B1}|SistemaGestionMusica.csproj|c:\\users\\aaron\\onedrive\\documents\\tp_25\\sistemagestionmusica\\servicios\\serviciomusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{104CCF68-BBB4-4730-8855-CA78006FC2B1}|SistemaGestionMusica.csproj|solutionrelative:servicios\\serviciomusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{104CCF68-BBB4-4730-8855-CA78006FC2B1}|SistemaGestionMusica.csproj|c:\\users\\aaron\\onedrive\\documents\\tp_25\\sistemagestionmusica\\servicios\\serviciocatalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{104CCF68-BBB4-4730-8855-CA78006FC2B1}|SistemaGestionMusica.csproj|solutionrelative:servicios\\serviciocatalogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{104CCF68-BBB4-4730-8855-CA78006FC2B1}|SistemaGestionMusica.csproj|c:\\users\\aaron\\onedrive\\documents\\tp_25\\sistemagestionmusica\\gestores\\gestorcanciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{104CCF68-BBB4-4730-8855-CA78006FC2B1}|SistemaGestionMusica.csproj|solutionrelative:gestores\\gestorcanciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{104CCF68-BBB4-4730-8855-CA78006FC2B1}|SistemaGestionMusica.csproj|c:\\users\\aaron\\onedrive\\documents\\tp_25\\sistemagestionmusica\\modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{104CCF68-BBB4-4730-8855-CA78006FC2B1}|SistemaGestionMusica.csproj|solutionrelative:modelos\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{104CCF68-BBB4-4730-8855-CA78006FC2B1}|SistemaGestionMusica.csproj|c:\\users\\aaron\\onedrive\\documents\\tp_25\\sistemagestionmusica\\modelos\\cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{104CCF68-BBB4-4730-8855-CA78006FC2B1}|SistemaGestionMusica.csproj|solutionrelative:modelos\\cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{104CCF68-BBB4-4730-8855-CA78006FC2B1}|SistemaGestionMusica.csproj|c:\\users\\aaron\\onedrive\\documents\\tp_25\\sistemagestionmusica\\sistemagestionmusica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{104CCF68-BBB4-4730-8855-CA78006FC2B1}|SistemaGestionMusica.csproj|solutionrelative:sistemagestionmusica.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServicioMusica.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\OneDrive\\Documents\\TP_25\\SistemaGestionMusica\\Servicios\\ServicioMusica.cs",
+              "RelativeDocumentMoniker": "Servicios\\ServicioMusica.cs",
+              "ToolTip": "C:\\Users\\aaron\\OneDrive\\Documents\\TP_25\\SistemaGestionMusica\\Servicios\\ServicioMusica.cs",
+              "RelativeToolTip": "Servicios\\ServicioMusica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:15:43.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicioCatalogo.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\OneDrive\\Documents\\TP_25\\SistemaGestionMusica\\Servicios\\ServicioCatalogo.cs",
+              "RelativeDocumentMoniker": "Servicios\\ServicioCatalogo.cs",
+              "ToolTip": "C:\\Users\\aaron\\OneDrive\\Documents\\TP_25\\SistemaGestionMusica\\Servicios\\ServicioCatalogo.cs*",
+              "RelativeToolTip": "Servicios\\ServicioCatalogo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:12:42.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GestorCanciones.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\OneDrive\\Documents\\TP_25\\SistemaGestionMusica\\Gestores\\GestorCanciones.cs",
+              "RelativeDocumentMoniker": "Gestores\\GestorCanciones.cs",
+              "ToolTip": "C:\\Users\\aaron\\OneDrive\\Documents\\TP_25\\SistemaGestionMusica\\Gestores\\GestorCanciones.cs*",
+              "RelativeToolTip": "Gestores\\GestorCanciones.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:10:48.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cancion.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\OneDrive\\Documents\\TP_25\\SistemaGestionMusica\\Modelos\\Cancion.cs",
+              "RelativeDocumentMoniker": "Modelos\\Cancion.cs",
+              "ToolTip": "C:\\Users\\aaron\\OneDrive\\Documents\\TP_25\\SistemaGestionMusica\\Modelos\\Cancion.cs",
+              "RelativeToolTip": "Modelos\\Cancion.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:08:17.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\OneDrive\\Documents\\TP_25\\SistemaGestionMusica\\Modelos\\Usuario.cs",
+              "RelativeDocumentMoniker": "Modelos\\Usuario.cs",
+              "ToolTip": "C:\\Users\\aaron\\OneDrive\\Documents\\TP_25\\SistemaGestionMusica\\Modelos\\Usuario.cs*",
+              "RelativeToolTip": "Modelos\\Usuario.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:04:34.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SistemaGestionMusica",
+              "DocumentMoniker": "C:\\Users\\aaron\\OneDrive\\Documents\\TP_25\\SistemaGestionMusica\\SistemaGestionMusica.csproj",
+              "RelativeDocumentMoniker": "SistemaGestionMusica.csproj",
+              "ToolTip": "C:\\Users\\aaron\\OneDrive\\Documents\\TP_25\\SistemaGestionMusica\\SistemaGestionMusica.csproj*",
+              "RelativeToolTip": "SistemaGestionMusica.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T05:01:55.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aaron\\OneDrive\\Documents\\TP_25\\SistemaGestionMusica\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aaron\\OneDrive\\Documents\\TP_25\\SistemaGestionMusica\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAgwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:49:17.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

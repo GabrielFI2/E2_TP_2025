@@ -1,0 +1,15 @@
+C:\Users\aaron\OneDrive\Documents\TP_25\SistemaGestionMusica\bin\Debug\net8.0\SistemaGestionMusica.exe
+C:\Users\aaron\OneDrive\Documents\TP_25\SistemaGestionMusica\bin\Debug\net8.0\SistemaGestionMusica.deps.json
+C:\Users\aaron\OneDrive\Documents\TP_25\SistemaGestionMusica\bin\Debug\net8.0\SistemaGestionMusica.runtimeconfig.json
+C:\Users\aaron\OneDrive\Documents\TP_25\SistemaGestionMusica\bin\Debug\net8.0\SistemaGestionMusica.dll
+C:\Users\aaron\OneDrive\Documents\TP_25\SistemaGestionMusica\bin\Debug\net8.0\SistemaGestionMusica.pdb
+C:\Users\aaron\OneDrive\Documents\TP_25\SistemaGestionMusica\obj\Debug\net8.0\SistemaGestionMusica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\OneDrive\Documents\TP_25\SistemaGestionMusica\obj\Debug\net8.0\SistemaGestionMusica.AssemblyInfoInputs.cache
+C:\Users\aaron\OneDrive\Documents\TP_25\SistemaGestionMusica\obj\Debug\net8.0\SistemaGestionMusica.AssemblyInfo.cs
+C:\Users\aaron\OneDrive\Documents\TP_25\SistemaGestionMusica\obj\Debug\net8.0\SistemaGestionMusica.csproj.CoreCompileInputs.cache
+C:\Users\aaron\OneDrive\Documents\TP_25\SistemaGestionMusica\obj\Debug\net8.0\SistemaGestionMusica.sourcelink.json
+C:\Users\aaron\OneDrive\Documents\TP_25\SistemaGestionMusica\obj\Debug\net8.0\SistemaGestionMusica.dll
+C:\Users\aaron\OneDrive\Documents\TP_25\SistemaGestionMusica\obj\Debug\net8.0\refint\SistemaGestionMusica.dll
+C:\Users\aaron\OneDrive\Documents\TP_25\SistemaGestionMusica\obj\Debug\net8.0\SistemaGestionMusica.pdb
+C:\Users\aaron\OneDrive\Documents\TP_25\SistemaGestionMusica\obj\Debug\net8.0\SistemaGestionMusica.genruntimeconfig.cache
+C:\Users\aaron\OneDrive\Documents\TP_25\SistemaGestionMusica\obj\Debug\net8.0\ref\SistemaGestionMusica.dll
