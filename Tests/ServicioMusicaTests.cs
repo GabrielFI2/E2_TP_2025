@@ -1,6 +1,7 @@
 using SistemaGestionMusica.Modelos;
-//using SistemaGestionMusica.Gestores;
+using SistemaGestionMusica.Gestores;
 using SistemaGestionMusica.Servicios;
+using System.Numerics;
 
 namespace SistemaGestionMusica.Tests
 {
@@ -10,7 +11,8 @@ namespace SistemaGestionMusica.Tests
         public void RegistrarUsuario_DeberiaAgregarUsuarioALista()
         {
             // Arrange
-            var servicio = new ServicioMusica(GestorCanciones());
+            var gestorCanciones = new ServicioCatalogo.GestorCanciones();
+            var servicio = new ServicioMusica(gestorCanciones);
             string nombreUsuario = "NuevoUsuario";
 
             // Act
@@ -24,7 +26,8 @@ namespace SistemaGestionMusica.Tests
         public void BuscarUsuario_UsuarioNoExistente_DeberiaRetornarNull()
         {
             // Arrange
-            var servicio = new ServicioMusica();
+            var gestorCanciones = new ServicioCatalogo.GestorCanciones();
+            var servicio = new ServicioMusica(gestorCanciones);
             servicio.RegistrarUsuario("UsuarioPrueba");
             string nombreBusqueda = "UsuarioInexistente";
 
